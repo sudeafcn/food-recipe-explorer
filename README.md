@@ -1,6 +1,6 @@
 # 🧑‍🍳 TasteHub - Modern Yemek Tarifi Keşif Rehberi
 
-[![Canlı Demo](https://img.shields.io/badge/Canl%C4%B1_Demo-G%C3%B6r%C3%BCnt%C3%BCle-orange?style=for-the-badge&logo=vercel)](https://SENIN_VERCEL_LINKIN.vercel.app)
+[![Canlı Demo](https://img.shields.io/badge/Canl%C4%B1_Demo-G%C3%B6r%C3%BCnt%C3%BCle-orange?style=for-the-badge&logo=vercel)](https://food-recipe-explorer.vercel.app/)
 
 TasteHub, dünya mutfaklarından binlerce tarifi keşfedebileceğiniz, malzemelere ve kategorilere göre filtreleme yapabileceğiniz, tamamen modern ve mobil uyumlu bir web uygulamasıdır. TheMealDB API kullanılarak geliştirilmiş olup, zengin kullanıcı deneyimi (UI/UX) standartlarına göre tasarlanmıştır.
 
@@ -44,9 +44,9 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/tastehub.git](https://github.com/KULLANICI_ADIN/tastehub.git)
-
-2. Proje dizinine gidin:
+   git clone [https://github.com/sudeafcn/food-recipe-explorer](https://github.com/sudeafcn/food-recipe-explorer)
+g
+2. Proje dizinine idin:
    ```bash
    cd food-recipe-explorer
 
