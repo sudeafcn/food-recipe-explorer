@@ -45,12 +45,12 @@ export default function Home() {
                 {weeklyRecipe.strArea} Mutfağı
               </span>
             </div>
-            <h2 className="text-4xl sm:text-5xl font-extrabold text-white mb-2 line-clamp-1">
-              {weeklyRecipe.strMeal}
-            </h2>
-            <p className="text-slate-200 line-clamp-2 max-w-2xl text-lg hidden sm:block">
-              {weeklyRecipe.strInstructions}
-            </p>
+           <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-white mb-2 line-clamp-1 leading-tight md:leading-tight lg:leading-tight pb-1">
+  {weeklyRecipe.strMeal}
+</h2>
+<p className="text-slate-200 line-clamp-2 max-w-2xl text-base md:text-lg hidden md:block leading-relaxed">
+  {weeklyRecipe.strInstructions}
+</p>
           </div>
         </div>
       )}
